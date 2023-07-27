@@ -1,12 +1,9 @@
 const express = require('express');
-const path = require('path');
-
 const app = express();
 
 app.use(express.urlencoded({ extended: false }));
-app.use(express.static(path.join(__dirname, 'public')));
 
-app.post('/api/start', function (req, res, next) { 
+app.post('/api/start', function (req, res, next) {
     if(!Number(req.body.divider)){
         res.status(400).send('Division by zero');
         return;
