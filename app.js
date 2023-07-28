@@ -31,7 +31,7 @@ app.get('/api/stats', function (req, res) {
 });
 
 app.get('/api/team-stats', function (req, res) {
-    const index = req.id;
+    const index = req.query.id;
     if(index>=0 && index<teamStats.length){
         res.json(teamStats[index]);
         return;
