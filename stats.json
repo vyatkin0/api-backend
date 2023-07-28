@@ -1,0 +1,116 @@
+{
+    "news": {
+        "days": 10,
+        "solutions": 2,
+        "products": 5,
+        "components": 4
+    },
+    "teamProducts": [
+        {
+            "teamId": 1,
+            "title": "Team 1",
+            "leader": "Leader of team 1",
+            "count": 4
+        },
+        {
+            "teamId": 2,
+            "title": "Team 2",
+            "leader": "Leader of team 2",
+            "count": 42
+        },
+        {
+            "teamId": 3,
+            "title": "Team 3",
+            "leader": "Leader of team 3",
+            "count": 3
+        },
+        {
+            "teamId": 4,
+            "title": "Team 4",
+            "leader": "Leader of team 4",
+            "count": 4
+        },
+        {
+            "teamId": 5,
+            "title": "Team 5",
+            "leader": "Leader of team 5",
+            "count": 5
+        },
+        {
+            "teamId": 6,
+            "title": "Team 6",
+            "leader": "Leader of team 6",
+            "count": 6
+        },
+        {
+            "teamId": 7,
+            "title": "Team 7",
+            "leader": "Leader of team 7",
+            "count": 7
+        }
+    ],
+    "solutions": [
+        {
+            "type": "Mono",
+            "count": 23
+        },
+        {
+            "type": "Bundle",
+            "count": 34
+        }
+    ],
+    "productsByStatus": [
+        {
+            "status": "Idea",
+            "count": 23
+        },
+        {
+            "status": "Active",
+            "count": 34
+        },
+        {
+            "status": "Active Mature",
+            "count": 223
+        },
+        {
+            "status": "End of Life",
+            "count": 2
+        },
+        {
+            "status": "Discontinued",
+            "count": 45
+        }
+    ],
+    "productsByType": [
+        {
+            "type": "Generic",
+            "count": 23
+        },
+        {
+            "type": "Customized",
+            "count": 34
+        }
+    ],
+    "componentsByStatus": [
+        {
+            "status": "Idea",
+            "count": 23
+        },
+        {
+            "status": "Active",
+            "count": 34
+        },
+        {
+            "status": "Active Mature",
+            "count": 223
+        },
+        {
+            "status": "End of Life",
+            "count": 2
+        },
+        {
+            "status": "Discontinued",
+            "count": 45
+        }
+    ]
+}

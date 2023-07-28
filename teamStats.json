@@ -1,0 +1,333 @@
+[
+    {
+        "id": 1,
+        "products": [
+            {
+                "name": "Idea",
+                "count": 23
+            },
+            {
+                "name": "Active",
+                "count": 34
+            },
+            {
+                "name": "Active Mature",
+                "count": 223
+            },
+            {
+                "name": "End of Life",
+                "count": 2
+            }
+        ],
+        "productTypes": [
+            {
+                "name": "Generic",
+                "count": 23
+            },
+            {
+                "name": "Customized",
+                "count": 2
+            }
+        ],
+        "components": [
+            {
+                "name": "Idea",
+                "count": 23
+            },
+            {
+                "name": "Active",
+                "count": 34
+            },
+            {
+                "name": "Active Mature",
+                "count": 223
+            },
+            {
+                "name": "Discontinued",
+                "count": 99
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "products": [
+            {
+                "name": "Idea",
+                "count": 23
+            },
+            {
+                "name": "Active",
+                "count": 34
+            },
+            {
+                "name": "Active Mature",
+                "count": 223
+            },
+            {
+                "name": "End of Life",
+                "count": 2
+            }
+        ],
+        "productTypes": [
+            {
+                "name": "Generic",
+                "count": 23
+            },
+            {
+                "name": "Customized",
+                "count": 2
+            }
+        ],
+        "components": [
+            {
+                "name": "Idea",
+                "count": 23
+            },
+            {
+                "name": "Active",
+                "count": 3
+            },
+            {
+                "name": "Active Mature",
+                "count": 223
+            },
+            {
+                "name": "Discontinued",
+                "count": 99
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "products": [
+            {
+                "name": "Idea",
+                "count": 23
+            },
+            {
+                "name": "Active",
+                "count": 34
+            },
+            {
+                "name": "Active Mature",
+                "count": 223
+            },
+            {
+                "name": "End of Life",
+                "count": 2
+            }
+        ],
+        "productTypes": [
+            {
+                "name": "Generic",
+                "count": 23
+            },
+            {
+                "name": "Customized",
+                "count": 2
+            }
+        ],
+        "components": [
+            {
+                "name": "Idea",
+                "count": 23
+            },
+            {
+                "name": "Active",
+                "count": 34
+            },
+            {
+                "name": "Active Mature",
+                "count": 223
+            },
+            {
+                "name": "Discontinued",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "products": [
+            {
+                "name": "Idea",
+                "count": 2
+            },
+            {
+                "name": "Active",
+                "count": 3
+            },
+            {
+                "name": "Active Mature",
+                "count": 23
+            },
+            {
+                "name": "End of Life",
+                "count": 2
+            }
+        ],
+        "productTypes": [
+            {
+                "name": "Generic",
+                "count": 23
+            },
+            {
+                "name": "Customized",
+                "count": 2
+            }
+        ],
+        "components": [
+            {
+                "name": "Idea",
+                "count": 2
+            },
+            {
+                "name": "Active",
+                "count": 3
+            },
+            {
+                "name": "Active Mature",
+                "count": 2
+            },
+            {
+                "name": "Discontinued",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "products": [
+            {
+                "name": "Idea",
+                "count": 23
+            },
+            {
+                "name": "Active",
+                "count": 34
+            },
+            {
+                "name": "Active Mature",
+                "count": 223
+            },
+            {
+                "name": "End of Life",
+                "count": 2
+            }
+        ],
+        "productTypes": [
+            {
+                "name": "Generic",
+                "count": 23
+            },
+            {
+                "name": "Customized",
+                "count": 2
+            }
+        ],
+        "components": [
+            {
+                "name": "Idea",
+                "count": 23
+            },
+            {
+                "name": "Active",
+                "count": 34
+            },
+            {
+                "name": "Active Mature",
+                "count": 223
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "products": [
+            {
+                "name": "Idea",
+                "count": 23
+            },
+            {
+                "name": "Active",
+                "count": 34
+            },
+            {
+                "name": "Active Mature",
+                "count": 223
+            },
+            {
+                "name": "End of Life",
+                "count": 2
+            }
+        ],
+        "productTypes": [
+            {
+                "name": "Generic",
+                "count": 23
+            },
+            {
+                "name": "Customized",
+                "count": 2
+            }
+        ],
+        "components": [
+            {
+                "name": "Idea",
+                "count": 23
+            },
+            {
+                "name": "Active",
+                "count": 34
+            },
+            {
+                "name": "Active Mature",
+                "count": 223
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "products": [
+            {
+                "name": "Idea",
+                "count": 23
+            },
+            {
+                "name": "Active",
+                "count": 34
+            },
+            {
+                "name": "Active Mature",
+                "count": 223
+            },
+            {
+                "name": "End of Life",
+                "count": 2
+            }
+        ],
+        "productTypes": [
+            {
+                "name": "Generic",
+                "count": 23
+            },
+            {
+                "name": "Customized",
+                "count": 2
+            }
+        ],
+        "components": [
+            {
+                "name": "Idea",
+                "count": 23
+            },
+            {
+                "name": "Active",
+                "count": 34
+            },
+            {
+                "name": "Active Mature",
+                "count": 223
+            }
+        ]
+    }
+]

@@ -1,9 +1,11 @@
 const express = require('express');
 const app = express();
+const stats = require('./stats.json');
+const teamStats = require('./teamStats.json');
 
 app.use(express.urlencoded({ extended: false }));
 
-app.post('/api/start', function (req, res, next) {
+app.post('/api/start', function (req, res) {
     if(!Number(req.body.divider)){
         res.status(400).send('Division by zero');
         return;
@@ -22,6 +24,14 @@ app.post('/api/start', function (req, res, next) {
     }
 
     res.send(result);
+});
+
+app.get('/api/stats', function (req, res) {
+    res.json(stats);
+});
+
+app.get('/api/teamStats', function (req, res) {
+    res.json(teamStats);
 });
 
 module.exports = app;
