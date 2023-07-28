@@ -30,7 +30,7 @@ app.get('/api/stats', function (req, res) {
     res.json(stats);
 });
 
-app.get('/api/teamStats', function (req, res) {
+app.get('/api/team-stats', function (req, res) {
     res.json(teamStats);
 });
 
