@@ -1,6 +1,5 @@
 [
     {
-        "id": 1,
         "products": [
             {
                 "name": "Idea",
@@ -49,7 +48,6 @@
         ]
     },
     {
-        "id": 2,
         "products": [
             {
                 "name": "Idea",
@@ -98,7 +96,6 @@
         ]
     },
     {
-        "id": 3,
         "products": [
             {
                 "name": "Idea",
@@ -147,7 +144,6 @@
         ]
     },
     {
-        "id": 4,
         "products": [
             {
                 "name": "Idea",
@@ -196,7 +192,6 @@
         ]
     },
     {
-        "id": 5,
         "products": [
             {
                 "name": "Idea",
@@ -241,7 +236,6 @@
         ]
     },
     {
-        "id": 6,
         "products": [
             {
                 "name": "Idea",
@@ -286,7 +280,6 @@
         ]
     },
     {
-        "id": 7,
         "products": [
             {
                 "name": "Idea",
