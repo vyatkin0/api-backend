@@ -34,6 +34,7 @@ app.get('/api/team-stats', function (req, res) {
     const index = req.id;
     if(index>=0 && index<teamStats.length){
         res.json(teamStats[index]);
+        return;
     }
 
     res.status(400).send('Does not exist');
