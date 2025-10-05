@@ -1,9 +1,11 @@
 const express = require('express');
+const cors = require('cors');
 const app = express();
 const stats = require('./stats.json');
 const teamStats = require('./teamStats.json');
 
 app.use(express.urlencoded({ extended: false }));
+app.use(cors());
 
 app.post('/api/start', function (req, res) {
     if(!Number(req.body.divider)){
